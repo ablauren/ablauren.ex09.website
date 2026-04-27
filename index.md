@@ -32,19 +32,19 @@ Did the fast pace of the course increase perceieved difficulty?
 
 There was a positive correlation between perceievd course pace and perceieved, difficultly, however this does not prove a cause/effect relationship/ 
 
-<img src="/static/imgs/Seaborn.plot.2.png" width = "400"/>
+<img src="/ablauren.ex09.website/static/imgs/Seaborn.plot.2.png" width = "400"/>
 
 People who felt the course was too fast paced also rated the course higher on difficulty. 
 
 Next... How did people feel about their undestanding of course concepts relative to the pace of the course?
 
-<img src= "/static/imgs/Seaborn.plot.3.png" width = "400"/>
+<img src= "/ablauren.ex09.website/static/imgs/Seaborn.plot.3.png" width = "400"/>
 
 People who felt the course was going to fast had less understanding of course material based on thier responses to the survey. 
 
 A positive note! People who feel like the course is too faced paced take advantage of office hours for assignments!
 
-<img src = "/static/imgs/Seaborn.plot.4.png" width = "400"/>
+<img src = "/ablauren.ex09.website/static/imgs/Seaborn.plot.4.png" width = "400"/>
 
 ## Conclusion
 
