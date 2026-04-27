@@ -22,4 +22,11 @@ I first analyzed an overall distribution of students perception on course pace o
 
 <img src="/static/imgs/Seaborn.plot.1.png" alt="Screenshot" width="400"/>
 
-<img src="/ablauren.ex09.website/static/imgs/Seaborn.plot.1.png" alt="Screenshot" width="400"/>
+The average rating on a scale of 1 (slow paced) to 7 (fast paced) wasa 4.6.
+
+Next ... 
+Did the fast pace of the course increase perceieved difficulty? 
+
+
+
+There was a positive correlation between perceievd course pace and perceieved, difficultly, however this does not prove a cause/effect relationship/ 
