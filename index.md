@@ -21,3 +21,5 @@ Yes!
 I first analyzed an overall distribution of students perception on course pace on the survey conducted towards the end of the semester. 
 
 <img src="/static/imgs/Seaborn.plot.1.png" alt="Screenshot" width="400"/>
+
+<img src="/ablauren.ex09.website/static/imgs/Seaborn.plot.1.png" alt="Screenshot" width="400"/>
