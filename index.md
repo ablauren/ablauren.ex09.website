@@ -22,4 +22,4 @@ I first analyzed an overall distribution of students perception on course pace o
 
 <img src="/downloads/seaborn/seaborn.plot.1.png" alt="Screenshot" width="400"/>
 
-![graph](downloads/seaborn/seaborn.plot.1.png)
+![graph](https://kommodo.ai/i/r39eoZiBh8AiYpT4rerb)
