@@ -20,6 +20,4 @@ Yes!
 
 I first analyzed an overall distribution of students perception on course pace on the survey conducted towards the end of the semester. 
 
-<img src="/downloads/seaborn/seaborn.plot.1.png" alt="Screenshot" width="400"/>
-
-![graph](https://kommodo.ai/i/r39eoZiBh8AiYpT4rerb)
+<img src="/ablauren.ex09.website/static/imgs/seaborn.plot.1.png" alt="Screenshot" width="400"/>
