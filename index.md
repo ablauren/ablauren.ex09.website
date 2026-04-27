@@ -9,7 +9,13 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="/ablauren.ex09.website/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img>
 
 
+Hypothesis: Increasing the pace at the beginning of the course so the more difficult material can be slowed down will help reduce stress for students and give them more time to master concepts.
 
-This is basic paragraph text.
+Does the fast pace of this course increase the difficulty for students?
+
+Yes!
+
+I first analyzed an overall distribution of students perception on course pace on the survey conducted towards the end of the semester. 
