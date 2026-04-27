@@ -44,7 +44,7 @@ People who felt the course was going to fast had less understanding of course ma
 
 A positive note! People who feel like the course is too faced paced take advantage of office hours for assignments!
 
-<img src = "/static/imgs/Seaborn.plot.3.png" width = "400"/>
+<img src = "/static/imgs/Seaborn.plot.4.png" width = "400"/>
 
 ## Conclusion
 
